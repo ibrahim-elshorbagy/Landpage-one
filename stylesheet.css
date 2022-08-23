@@ -4,7 +4,7 @@ body{
 
 .clearfix{clear:both;}
 
-.continer               /* بيخلي العناصر وسط */
+.continer               
 {
    margin: auto;
     width: 1000px;
@@ -16,7 +16,7 @@ body{
 
 .header .slider
 {
-background-image: url(../f1.jpg);
+background-image: url(./images/f1.jpg);
 background-size:cover ;
 height: 450px;
 }
@@ -51,7 +51,7 @@ height: 450px;
 
 
 
-.header .navbar    /* بيلخي اللون يلمي الشاشه كلها */
+.header .navbar    
 {
 background-color: #252f31;
 color: #fff;
